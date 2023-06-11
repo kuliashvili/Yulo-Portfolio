@@ -10,6 +10,7 @@ function App() {
      <h1>Update Test From Terminal Through Gh-Pages 2</h1>
      <h1>Update Test From Terminal Through Gh-Pages 3</h1>
      <h1>Final test, gh-pages </h1>
+     <h1>Final test, gh-pages 2</h1>
     </div>
   );
 }
