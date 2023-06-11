@@ -7,6 +7,7 @@ function App() {
      <h1>Wake Up Neo</h1>
      <h1>Update Test From Terminal</h1>
      <h1>Update Test From Terminal Through Gh-Pages</h1>
+     <h1>Update Test From Terminal Through Gh-Pages 2</h1>
     </div>
   );
 }
