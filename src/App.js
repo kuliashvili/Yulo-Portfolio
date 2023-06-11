@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1>Wake Up Neo</h1>
      <h1>Update Test From Terminal</h1>
+     <h1>Update Test From Terminal Through Gh-Pages</h1>
     </div>
   );
 }
