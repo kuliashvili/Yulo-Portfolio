@@ -6,7 +6,7 @@ function Main() {
         <div className="Main">
             <div className="info">
                 <div className="info-inner">
-                    <div className="welcome"></div>
+                    <div className="welcome">hello</div>
                     <div className="welcome-header"></div>
                     <div className="welcome-text"></div>
                     <div className="button"></div>
