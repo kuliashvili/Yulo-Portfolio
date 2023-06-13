@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/Yulo-Portfolio/static/css/main.8a41e904.css",
-    "main.js": "/Yulo-Portfolio/static/js/main.03b85174.js",
+    "main.css": "/Yulo-Portfolio/static/css/main.e33bfb09.css",
+    "main.js": "/Yulo-Portfolio/static/js/main.e61249a7.js",
+    "static/media/game2.jpg": "/Yulo-Portfolio/static/media/game2.b086b9ffc65c49f837e7.jpg",
+    "static/media/game7.jpg": "/Yulo-Portfolio/static/media/game7.c382cf9182b3bbac479a.jpg",
+    "static/media/game8.jpg": "/Yulo-Portfolio/static/media/game8.e64ca9abc5dcb1f735e3.jpg",
+    "static/media/game6.jpg": "/Yulo-Portfolio/static/media/game6.92c41410e7b3b9d4d40e.jpg",
+    "static/media/game4.jpg": "/Yulo-Portfolio/static/media/game4.aaaabbbd4264fc330685.jpg",
     "static/media/myphoto.jpg": "/Yulo-Portfolio/static/media/myphoto.07f24beb26d8341cd4b8.jpg",
+    "static/media/game5.jpg": "/Yulo-Portfolio/static/media/game5.c15d7b18e451373fdb00.jpg",
+    "static/media/game1.jpg": "/Yulo-Portfolio/static/media/game1.c582f1ca96967cbd0457.jpg",
     "static/media/link-icon.png": "/Yulo-Portfolio/static/media/link-icon.a46c1221a86d23a09d68.png",
+    "static/media/game3.jpg": "/Yulo-Portfolio/static/media/game3.8d53f56dc8089a4e7a77.jpg",
     "static/media/github-icon.png": "/Yulo-Portfolio/static/media/github-icon.987334e9f782cc505f25.png",
     "index.html": "/Yulo-Portfolio/index.html",
-    "main.8a41e904.css.map": "/Yulo-Portfolio/static/css/main.8a41e904.css.map",
-    "main.03b85174.js.map": "/Yulo-Portfolio/static/js/main.03b85174.js.map"
+    "main.e33bfb09.css.map": "/Yulo-Portfolio/static/css/main.e33bfb09.css.map",
+    "main.e61249a7.js.map": "/Yulo-Portfolio/static/js/main.e61249a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a41e904.css",
-    "static/js/main.03b85174.js"
+    "static/css/main.e33bfb09.css",
+    "static/js/main.e61249a7.js"
   ]
 }
