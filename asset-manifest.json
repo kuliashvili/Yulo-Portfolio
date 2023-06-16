@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Yulo-Portfolio/static/css/main.b7be7f86.css",
-    "main.js": "/Yulo-Portfolio/static/js/main.d75cc8cb.js",
+    "main.css": "/Yulo-Portfolio/static/css/main.89c4df31.css",
+    "main.js": "/Yulo-Portfolio/static/js/main.2cb45e6b.js",
     "static/media/myphoto2.jpg": "/Yulo-Portfolio/static/media/myphoto2.8efa786c86bcc8d51054.jpg",
     "static/media/game2.jpg": "/Yulo-Portfolio/static/media/game2.b086b9ffc65c49f837e7.jpg",
     "static/media/Kuliashvili.pdf": "/Yulo-Portfolio/static/media/Kuliashvili.c54001e75582d34a2e90.pdf",
@@ -17,11 +17,11 @@
     "static/media/github-icon.png": "/Yulo-Portfolio/static/media/github-icon.987334e9f782cc505f25.png",
     "static/media/burger-close.png": "/Yulo-Portfolio/static/media/burger-close.9dcd261ec6b1b26447d8.png",
     "index.html": "/Yulo-Portfolio/index.html",
-    "main.b7be7f86.css.map": "/Yulo-Portfolio/static/css/main.b7be7f86.css.map",
-    "main.d75cc8cb.js.map": "/Yulo-Portfolio/static/js/main.d75cc8cb.js.map"
+    "main.89c4df31.css.map": "/Yulo-Portfolio/static/css/main.89c4df31.css.map",
+    "main.2cb45e6b.js.map": "/Yulo-Portfolio/static/js/main.2cb45e6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7be7f86.css",
-    "static/js/main.d75cc8cb.js"
+    "static/css/main.89c4df31.css",
+    "static/js/main.2cb45e6b.js"
   ]
 }
