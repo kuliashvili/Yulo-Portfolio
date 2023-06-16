@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Yulo-Portfolio/static/css/main.4409f52c.css",
+    "main.css": "/Yulo-Portfolio/static/css/main.1aad15cf.css",
     "main.js": "/Yulo-Portfolio/static/js/main.c42e336f.js",
     "static/media/myphoto2.jpg": "/Yulo-Portfolio/static/media/myphoto2.8efa786c86bcc8d51054.jpg",
     "static/media/game2.jpg": "/Yulo-Portfolio/static/media/game2.b086b9ffc65c49f837e7.jpg",
@@ -17,11 +17,11 @@
     "static/media/github-icon.png": "/Yulo-Portfolio/static/media/github-icon.987334e9f782cc505f25.png",
     "static/media/burger-close.png": "/Yulo-Portfolio/static/media/burger-close.9dcd261ec6b1b26447d8.png",
     "index.html": "/Yulo-Portfolio/index.html",
-    "main.4409f52c.css.map": "/Yulo-Portfolio/static/css/main.4409f52c.css.map",
+    "main.1aad15cf.css.map": "/Yulo-Portfolio/static/css/main.1aad15cf.css.map",
     "main.c42e336f.js.map": "/Yulo-Portfolio/static/js/main.c42e336f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4409f52c.css",
+    "static/css/main.1aad15cf.css",
     "static/js/main.c42e336f.js"
   ]
 }
