@@ -17,7 +17,7 @@
 
 ## Contributing
 
-Contributions to Yulo-Portfolio are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request.
+<h2>Contributions to Yulo-Portfolio are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request</h2>
 
 
 
