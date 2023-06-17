@@ -11,7 +11,7 @@
 
 <h3>- **About Me:** Learn more about me, my background, skills, and experience. Get an insight into my passion for web development and technology.</h3>
 
-<h3>- **Contact Form:** Reach out to me easily through the contact form. If you have any inquiries, suggestions, or collaboration opportunities, feel free to send me a message.</h3>
+<h3>- **Contact Form:** Reach out to me easily through the contact form. If you have any inquiries, suggestions, or collaboration opportunities. feel free to send me a message.</h3>
 
 
 
