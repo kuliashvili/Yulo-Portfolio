@@ -7,11 +7,11 @@
 
 ## Features
 
-<h3>  Browse through a collection of my projects, each with its own dedicated page providing details and showcasing the work done.</h3>
+<h3>  Browse through a collection of my projects, each with its own dedicated page providing details and showcasing the work done</h3>
 
-<h3> Learn more about me, my background, skills, and experience. Get an insight into my passion, for web development and technology.</h3>
+<h3> Learn more about me, my background, skills, and experience. Get an insight into my passion, for web development and technology</h3>
 
-<h3>  Reach out to me easily through the contact form. If you have any inquiries, suggestions, or collaboration opportunities. feel free to send me a message.</h3>
+<h3>  Reach out to me easily through the contact form. If you have any inquiries, suggestions, or collaboration opportunities. feel free to send me a message</h3>
 
 
 
