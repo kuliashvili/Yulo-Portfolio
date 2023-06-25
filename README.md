@@ -17,8 +17,8 @@
 
 ## Contributing
 
-<h3> Contributions to Yulo-Portfolio are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request</h3>h3> 
+<h3> Contributions to Yulo-Portfolio are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to open an issue or submit a pull request</h3>
 
 
 
-<h3> Thank you for your interest in my portfolio, and I hope you enjoy exploring my projects and getting to know me better. Feel free to reach out to me through the contact form if you have any questions or feedback<h3> 
+<h2> Thank you for your interest in my portfolio, and I hope you enjoy exploring my projects and getting to know me better. Feel free to reach out to me through the contact form if you have any questions or feedback<h2> 
