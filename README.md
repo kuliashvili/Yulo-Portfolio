@@ -1,6 +1,6 @@
 # Yulo-Portfolio  Live: <h3>  https://yulo01.github.io/Yulo-Portfolio/ </h3> 
 
-<h3>This is my personal portfolio website, Yulo-Portfolio, built with React. It showcases my projects and provides a way to get in touch with me. The portfolio is designed to be visually appealing, featuring a beautiful layout with a combination of blue and orange colors</h3>
+<h3>This is my personal portfolio website, Yulo-Portfolio, built with React. It showcases my projects and provides a way to get in touch with me. The portfolio is designed to be visually appealing, featuring a beautiful layout, with a combination of blue and orange colors</h3>
 
 ![image](https://github.com/yulo01/Yulo-Portfolio/assets/93291077/31d065aa-289e-4059-aab0-3c9414f6da98)
 
